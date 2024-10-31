@@ -23,7 +23,7 @@ export default function Hero() {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <button className="bg-emerald-600 text-white dark:bg-emerald-500 px-8 py-3 rounded-lg font-semibold hover:bg-emerald-700 dark:hover:bg-emerald-600 transition-colors">
-              Start Free Trial
+              Start
             </button>
             <button className="border-2 border-emerald-600 dark:border-emerald-500 text-emerald-600 dark:text-emerald-500 px-8 py-3 rounded-lg font-semibold hover:bg-emerald-50 dark:hover:bg-emerald-950/50 transition-colors">
               Watch Demo
